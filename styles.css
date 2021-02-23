@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#background {
+  /* background-color: black; */
+  height: 200px;
+  justify-content: center;
+  display: flex;
+}
+.name {
+  color: white;
+  text-align: center;
+  border: 5px solid white;
+  width: fit-content;
+  margin-top: 20px;
+  padding: 50px;
+}
+.d2 {
+  background-color: gray;
+  height: 70px;
+  /* width: fit-content; */
+  padding-top: 8px;
+  text-align: center;
+}
+#t1 {
+  margin-top: 20px;
+  color: white;
+}
+#d4 {
+  background-color: #f0a500;
+  font-weight: bold;
+}
+#d5 {
+  background-color: #e45826;
+  font-weight: bold;
+  font-size: medium;
+}
+#mainD {
+  background-color: white;
+  height: 500px;
+}
+hr {
+  border: solid white;
+  height: 5px;
+  /* float: left; */
+  /* color: rgb(252, 245, 245); */
+}
+#d6 {
+  background-color: #e6d5b8;
+}
